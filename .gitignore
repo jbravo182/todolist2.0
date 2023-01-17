@@ -1,0 +1,5 @@
+.env
+.vscode
+node_modules/
+todo-back/node_modules
+todo-front/node_modules
